@@ -1,7 +1,7 @@
 #include  <stdio.h>
 
 int  main (){
-  int  number = 100;
-  printf("%d", number );
+  int  num = 100;
+  printf("%d", num );
 return  0;
 }
